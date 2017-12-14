@@ -1,0 +1,18 @@
+﻿Build started 2/9/2014 9:40:22 PM.
+     1>Project "C:\Users\nabil\Dropbox\ESIEE-IN4I12-14\mycode\meshviewer - 4\myproj\myproj.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\myproj.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         myproj.vcxproj -> C:\Users\nabil\Dropbox\ESIEE-IN4I12-14\mycode\meshviewer - 4\Release\myproj.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\myproj.unsuccessfulbuild".
+         Touching "Release\myproj.lastbuildstate".
+     1>Done Building Project "C:\Users\nabil\Dropbox\ESIEE-IN4I12-14\mycode\meshviewer - 4\myproj\myproj.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
